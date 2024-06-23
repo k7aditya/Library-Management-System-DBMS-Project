@@ -1,4 +1,4 @@
-# Libarary Management System
+# Libarary Management System Team Project
 
 ## Features
 - Users can register to the app using email verification.
