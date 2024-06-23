@@ -9,3 +9,7 @@
 - A self regenerated reminder to the user’s email regarding the return of an issued book.
 
 ## TechStack
+- Java
+- Java Swing
+- AWT
+- MySQL
