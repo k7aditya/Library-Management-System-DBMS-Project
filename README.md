@@ -13,3 +13,10 @@
 - Java Swing
 - AWT
 - MySQL
+
+## Contributors
+- Aditya Khairnar
+- Siddhenthi Uday Kumar
+- Dimple Bhondekar
+- Aryan Rasiwasia
+- Devya Gupta
